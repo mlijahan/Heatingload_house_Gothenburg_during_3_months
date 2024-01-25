@@ -1,0 +1,41 @@
+Envelope Type,Group,Envelop Area,Fenestration Area,ratio,Exposure Direction,u factor,Envelope R ,Material
+"Basic Wall: Foundation - 8"" Concrete",0,22.55,0,0,1,0.3229,3.096934035,Concrete
+Basic Wall: DZNG_Wall_Ext_Siding_Hor,0,22.94,10.88,0.474280732,3,0.7095,1.40944327, Lumber
+"Basic Wall: Interior - 4 1/2"" Partition",0,6.39,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,3.57,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,1.86,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.89,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.79,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,7.55,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,5.38,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,1.87,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,13.06,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,10.63,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,8.83,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.21,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.3,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,10.76,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.21,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,3.22,0,0,0,1.2822,0.77990953,Softwood
+Basic Wall: DZNG_Wall_Ext_Siding_Hor,0,27.29,0,0,5,0.7095,1.40944327, Lumber
+Basic Wall: DZNG_Wall_Ext_Siding_Hor,0,27.63,0,0,1,0.7095,1.40944327, Lumber
+Basic Wall: DZNG_Wall_Ext_Siding_Hor,0,20.55,13.304,0.647396594,7,0.7095,1.40944327, Lumber
+"Basic Wall: Foundation - 8"" Concrete",0,28.04,0,0,3,0.3229,3.096934035,Concrete
+"Basic Wall: Foundation - 8"" Concrete",0,21.76,1.196,0.054963235,5,0.3229,3.096934035,Concrete
+"Basic Wall: Foundation - 8"" Concrete",0,27.24,0,0,7,0.3229,3.096934035,Concrete
+"Basic Wall: Foundation - 8"" Concrete",0,22.73,1.196,0.052617686,3,5.1476,0.194265289,Concrete
+"Basic Wall: Interior - 4 1/2"" Partition",0,3.52,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,3.97,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,7,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,7.13,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,7.13,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,7.88,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,1.62,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,1.56,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",0,2.76,0,0,0,1.2822,0.77990953,Softwood
+"Basic Wall: Interior - 4 1/2"" Partition",1,5.69,0,0,0,1.2822,0.77990953,Softwood
+"Floor: Wood Joist 11"" - Wood Finish",1,89.66,0,0,0,0.1006,9.940357853,Structure
+"Floor: Concrete Slab - 4""",1,4.87,0,0,0,10.2953,0.097131701,Concrete
+"Floor: Concrete Slab - 4""",1,93.43,0,0,0,10.2953,0.097131701,Concrete
+Floor: WOOD DECK,1,14.98,0,0,0,1.2822,0.77990953,Wood
+Compound Ceiling: 2' x 2' ACT System,2,93.16,0,0,0,3.6,0.277777778,Asphalt Shingle
