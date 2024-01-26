@@ -13,7 +13,8 @@ Basemodel.pdf file shows readily the details of the building. Revit 20121 is use
 
 ![newplot (4)](https://github.com/mlijahan/Heatingload_house_Gothenburg_during_3_months/assets/89294710/24844b34-bfa9-4239-86db-08ece638de58) <br>
 
+![newplot (5)](https://github.com/mlijahan/Heatingload_house_Gothenburg_during_3_months/assets/89294710/a6863761-a14d-40ac-9191-884e3833667a) <br>
 
-![newplot (1)](https://github.com/mlijahan/Heatingload_house_Gothenburg_during_3_months/assets/89294710/3d904993-8122-42b1-9128-9e176b6d8623) <br>
+
 
 Some of the output of this script showed here. With manipulation with temerature design and inside temperature, the output will changes. Simulation of other heating load building models using the other .CSV files and changing 3 factors inside the script (from ASHRAE) for new model is possible.
